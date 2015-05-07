@@ -1,7 +1,7 @@
 library(data.table)
 
 ##########################################################################
-# Script to produce the third plot for Explatory Data Analysis Project 1
+# Script to produce the final plot for Explatory Data Analysis Project 1
 # Note: Uses the Data tables package to access the fread() function
 #       This enables searching by a string for the start position to 
 #       read a file
